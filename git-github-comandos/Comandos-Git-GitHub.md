@@ -1,4 +1,4 @@
-### Outros Comandos:
+### Comandos Git/GitHub
 
 Criar um diretório no Windows no Git Bash: 
 
